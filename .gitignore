@@ -22,3 +22,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+/i-travel_test.db
+/mvnw
+/mvnw.cmd
+*.gitignore
