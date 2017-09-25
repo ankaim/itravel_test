@@ -9,4 +9,6 @@ public class ItravelApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ItravelApplication.class, args);
 	}
+
+	public void()
 }
